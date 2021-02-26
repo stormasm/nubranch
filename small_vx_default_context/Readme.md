@@ -18,6 +18,10 @@ to see a greatly reduced command set in action...
 * source, table, touch, uniq, version
 * with-env
 
+All of these files are located in:
+
+### nu-command/src
+
 The following 3 files get modified:
 
 * src/commands.rs
