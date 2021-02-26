@@ -22,6 +22,7 @@ to see a greatly reduced command set in action...
 * flatten
 * get
 * help
+
 * history
 * let
 * let-env
@@ -32,4 +33,5 @@ to see a greatly reduced command set in action...
 * touch
 * uniq
 * version
+
 * with-env
