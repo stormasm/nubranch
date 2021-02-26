@@ -1,6 +1,9 @@
-Two files get changed to enable a simple and easy way to what
-the block looks like after it is returned from parse_line which
-is defined in examples.rs below.
+Two files get changed to enable a simple and easy way to view what
+the block looks like after it is returned from
+
+###parse_line 
+
+which is defined in examples.rs below.
 
 ### nu-command/src/commands.rs
 
