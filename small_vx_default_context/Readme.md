@@ -12,26 +12,8 @@ to see a greatly reduced command set in action...
 
 ### The following commands are being presented:
 
-* autoenv
-* autoview
-* clear
-* debug
-* def
-* echo
-* exit
-* flatten
-* get
-* help
-
-* history
-* let
-* let-env
-* ls
-* pivot
-* source
-* table
-* touch
-* uniq
-* version
-
+* autoenv, autoview, clear, debug, def
+* echo, exit, flatten, get, help
+* history, let, let-env, ls, pivot
+* source, table, touch, uniq, version
 * with-env
