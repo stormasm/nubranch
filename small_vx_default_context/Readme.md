@@ -17,3 +17,17 @@ to see a greatly reduced command set in action...
 * history, let, let-env, ls, pivot
 * source, table, touch, uniq, version
 * with-env
+
+The following 3 files get modified:
+
+* src/commands.rs
+* src/commands/default_context.rs
+* src/prelude.rs
+
+This file gets completely commented out:
+
+* src/commands/constants.rs
+
+The following 2 files get deleted:
+
+* from_delimited_data.rs, to_delimited_data.rs
